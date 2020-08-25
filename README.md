@@ -9,7 +9,7 @@ Use the ICAO code EGIC to locate the airport. This ICAO code was given by Micros
 Unzip the file "thegarner-airport-egic-ince.zip" to your Microsoft Flight Simulator installation directory under the "Community" folder. 
 
 
-### Features
+## Features
 * All runways added including number markings.
 * Multiple static aircraft
 * Multiple GA parking spots
