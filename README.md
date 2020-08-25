@@ -11,6 +11,7 @@ Unzip the file "thegarner-airport-egic-ince.zip" to your Microsoft Flight Simula
 
 ## Features
 * All runways added including number markings.
+* Additional vegetation
 * Multiple static aircraft
 * Multiple GA parking spots
 * Multiple static objects such as buildings, cars, fences and more. Tried to resemble what the real airstrip looks like. 
