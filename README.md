@@ -16,3 +16,4 @@ Unzip the file "thegarner-airport-egic-ince.zip" to your Microsoft Flight Simula
 * Multiple static objects such as buildings, cars, fences and more. Tried to resemble what the real airstrip looks like. 
 * Windsocks
 
+## Version Changes
