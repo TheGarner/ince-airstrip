@@ -17,4 +17,6 @@ Unzip the file "thegarner-airport-egic-ince.zip" to your Microsoft Flight Simula
 * Multiple static objects such as buildings, cars, fences and more. Tried to resemble what the real airstrip looks like. 
 * Windsocks
 
-## Version Changes
+# Version Changelog
+v1.1 (Released 2nd Sept 2020)
+* Applied fix to windsock and reduced/replaced static aircraft with generic static aircraft to improve performance and a workaround for the aircraft duplication issue if you choose the same plane that is parked at the airport. If you have the airfield already installed and do not care for these changes then you can ignore this update.
